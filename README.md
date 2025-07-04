@@ -62,7 +62,6 @@ My approach to house price prediction involved the following steps:
 
 ## 📉 Visualizations
 
-*(Note: Specific visualization images are not included in this README, but the notebook contains plots for feature distributions, correlations, and model performance.)*
 
 ## 📊 Results and Insights
 
@@ -96,7 +95,7 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 ## 📬 Contact
 
 For questions or collaboration:
-- GitHub: [Your GitHub Username]
-- Email: [Your Email Address]
+- GitHub: `AhsanNFt`
+- Email: `syedahsan0991@gmail.com`
 
 
