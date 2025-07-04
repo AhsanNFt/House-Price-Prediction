@@ -96,6 +96,6 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 
 For questions or collaboration:
 - GitHub: `AhsanNFt`
-- Email: `syedahsan0991@gmail.com`
+- Email: syedahsan0991@gmail.com
 
 
